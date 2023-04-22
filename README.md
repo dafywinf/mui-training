@@ -1,3 +1,19 @@
+# Source Material
+https://mui.com/material-ui/getting-started/usage/
+
+# Commands
+
+```
+npx create-react-app . --template typescript
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @fontsource/roboto
+npm install @mui/icons-material
+npm install @emotion/react
+npm install @emotion/styled
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
